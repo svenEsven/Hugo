@@ -1,0 +1,64 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "svendrive"
+theme = "PaperMod"
+paginate = 5
+
+[params]
+  DateFormat = "January 2, 2006"
+  defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = true
+tocopen = true
+customCSS = "/assets/css/custom.css"
+logo = "/images/logo/svendrivelogo.png"
+logoHeight = 40 # Adjust the height as needed
+
+[params.assets]
+  # disableHLJS: true # to disable highlight.js
+  # disableFingerprinting: true
+  favicon = "/images/logo/svendrivelogo.png"
+  favicon16x16 = "/images/logo/svendrivelogo.png"
+  favicon32x32 = "/images/logo/svendrivelogo.png"
+  apple_touch_icon = "/images/logo/svendrivelogo.png"
+  safari_pinned_tab = "/images/logo/svendrivelogo.png"
+
+[params.social]
+  github = "https://github.com/yourusername"
+  twitter = "https://twitter.com/yourusername"
+  linkedin = "https://linkedin.com/in/yourusername"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "learning"
+    name = "Learning"
+    url = "/learning/"
+    weight = 2
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[outputFormats]
+  [outputFormats.JSON]
+    mediaType = "application/json"
+    baseName = "index"
+    isPlainText = true

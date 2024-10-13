@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    {{ $styles := resources.Get "css/common/main.css" | resources.ToCSS | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}">
+    {{ $customStyles := resources.Get "css/common/learning.css" | resources.ToCSS | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $customStyles.Permalink }}">
+</head>
+<body>
+    <header class="page-header">
+        <h1>{{ .Title }}</h1>
+    </header>
+
+    <main class="content">
+        <section class="learning-resources">
+            {{ .Content }}
+        </section>
+    </main>
+</body>
+</html>

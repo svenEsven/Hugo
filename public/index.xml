@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>svendrive</title>
+    <link>https://blog.svendrive.com/</link>
+    <description>Recent content on svendrive</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.svendrive.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up a Hugo Blog with the PaperMod Theme: A Step-by-Step Guide</title>
+      <link>https://blog.svendrive.com/posts/2024-10-12-setting-up-hugo/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.svendrive.com/posts/2024-10-12-setting-up-hugo/</guid>
+      <description>A comprehensive guide to setting up a Hugo blog with the PaperMod theme, including adding high-quality images and ensuring uniform thumbnail sizes.</description>
+    </item>
+    <item>
+      <title>Setting Up Watchtower</title>
+      <link>https://blog.svendrive.com/posts/2023-10-21-setting-up-watchtower/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.svendrive.com/posts/2023-10-21-setting-up-watchtower/</guid>
+      <description>Automated Docker Updates</description>
+    </item>
+    <item>
+      <title>Setting Up a Media Server: Sonarr, Radarr, Sabnzbd, and qBittorrent</title>
+      <link>https://blog.svendrive.com/posts/2023-10-20-setting-up-media-server-sonarr-radarr-sabnzbd-qbittorrent/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.svendrive.com/posts/2023-10-20-setting-up-media-server-sonarr-radarr-sabnzbd-qbittorrent/</guid>
+      <description>Media Automation</description>
+    </item>
+    <item>
+      <title>Setting Up Traefik in Portainer: A Step-by-Step Guide</title>
+      <link>https://blog.svendrive.com/posts/2023-10-05-setting-up-traefik-in-portainer/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.svendrive.com/posts/2023-10-05-setting-up-traefik-in-portainer/</guid>
+      <description>An Idiot&amp;#39;s Reverse-Proxy</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://blog.svendrive.com/about/</link>
+      <pubDate>Sun, 01 Oct 2023 12:00:00 +0000</pubDate>
+      <guid>https://blog.svendrive.com/about/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+&lt;p&gt;I am passionate about IT and server management. Here are my skills and aspirations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Skill 1&lt;/li&gt;
+&lt;li&gt;Skill 2&lt;/li&gt;
+&lt;li&gt;Skill 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My aspirations include becoming an expert in homelab setups and sharing my knowledge with the community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>https://blog.svendrive.com/learning/</link>
+      <pubDate>Sun, 01 Oct 2023 12:00:00 +0000</pubDate>
+      <guid>https://blog.svendrive.com/learning/</guid>
+      <description>&lt;h2 id=&#34;learning-resources&#34;&gt;Learning Resources&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Everything about Setting Up My Ubuntu Desktop</title>
+      <link>https://blog.svendrive.com/posts/2018-05-24-set_up_my_ubuntu_desktop/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.svendrive.com/posts/2018-05-24-set_up_my_ubuntu_desktop/</guid>
+      <description>Everything about setting up my own ubuntu desktop, it&amp;#39;s just a Note in case I need it later</description>
+    </item>
+    <item>
+      <title>Installing Docker on Ubuntu Server</title>
+      <link>https://blog.svendrive.com/posts/2023-09-28-installing-docker-on-ubuntu/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.svendrive.com/posts/2023-09-28-installing-docker-on-ubuntu/</guid>
+      <description>Hello World, Hello Docker</description>
+    </item>
+    <item>
+      <title>Installing Proxmox 8</title>
+      <link>https://blog.svendrive.com/posts/2023-09-25-installing-proxmox-8/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.svendrive.com/posts/2023-09-25-installing-proxmox-8/</guid>
+      <description>Hello World, Hello Blog</description>
+    </item>
+    <item>
+      <title>Setting Up Portainer for Docker Management</title>
+      <link>https://blog.svendrive.com/posts/2023-10-01-setting-up-portainer-for-docker-management/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://blog.svendrive.com/posts/2023-10-01-setting-up-portainer-for-docker-management/</guid>
+      <description>An Idiot&amp;#39;s Reverse-Proxy</description>
+    </item>
+  </channel>
+</rss>
